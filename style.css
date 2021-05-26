@@ -1,0 +1,11 @@
+.nav-link.active {
+	border-bottom: 2px solid rgb(231, 231, 231) !important;
+}
+
+#about-us {
+	background-color: #8bb5f9;
+}
+
+#contact {
+	background-color: #e6f0ff;
+}
